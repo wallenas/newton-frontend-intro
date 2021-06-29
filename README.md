@@ -35,15 +35,16 @@ Om ni får tid över kan ni fördjupa er i SASS
 Ni ska bygga en enkel responsiv webbplats. Mockups och assets finns i det här repot.
 
 ### Instruktioner
-Forka det här repositoryt och utveckla mot er fork, på det här sättet ger ni mig och de andra i klassen tillgång till koden för att lära er av varandra. 
+Forka det här repositoryt och utveckla mot er fork. På det här sättet ger ni mig och de andra i klassen tillgång till koden för att lära er av varandra. Ni hittar fork-knappen högst upp till höger på skärmen.
 
-Ni kan också använda Githubs senaste feature `Discussions` att diskutera projektet eller kursen här inför kursstart.
+Ni kan också använda Githubs senaste feature `Discussions` för att diskutera projektet eller kursen här inför kursstart.
 
-Börja med mobil-versionen av sidan, denna praxis kallas Mobile First och är vedertagen för frontendare.
+Börja med mobil-versionen av sidan. Denna praxis kallas Mobile First och är vedertagen för frontendare. Sidan ska se bra ut i första hand på en smal skärm. PDF-filerna i mappen `mockups` kallas för mockup: en skiss över hur sidorna ni bygger ska se ut. Använd bildfilerna i mappen `assets`.
 
 ### Specifikation
 Försök få designen att likna Mocken så nära det går. 
 * Ni ska använda er av `flex` och `grid` för att bygga layouten. 
 * Man ska kunna navigera mellan Home- och Contact-sidorna.
 * När mobilversionen är klar, lägg till `@media`-queries för att anpassa sidan till Desktop
-* Level Up: Lägg till lite fancy hover-effekter och transitions på sidan.
+* Level up: Lägg till lite fancy hover-effekter och transitions på sidan.
+* Level up: använd GitHub Pages för att publicera sidan direkt från GitHub.
